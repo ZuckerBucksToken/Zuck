@@ -28,11 +28,11 @@ Zuker Bucks (ZUCK) is an innovative utility token built on the Binance Smart Cha
 
 ## Contract Details
 
-- **Contract Address**: `0x1c66b0b8a2078cf9711527b330dc614b6634b6b`
+- **Contract Address**: `0x28def224aae1b35f2fce6dc3b939534497b33874`
 - **Symbol**: ZUCK
 - **Decimals**: 18
-- **Total Supply**: 1,000,000 ZUCK
-- **Block Explorer**: [BscScan](https://bscscan.com/address/0x1c66b0b8a2078cf9711527b330dc614b6634b6b)
+- **Total Supply**: 1,000,000,000 ZUCK
+- **Block Explorer**: [BscScan](https://bscscan.com/address/0x28def224aae1b35f2fce6dc3b939534497b33874)
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ To interact with the Zuker Bucks token contract, you will need:
 
 ## Deployment
 
-The contract is deployed on Binance Smart Chain. You can view and verify the contract on [BscScan](https://bscscan.com/address/0x1c66b0b8a2078cf9711527b330dc614b6634b6b).
+The contract is deployed on Binance Smart Chain. You can view and verify the contract on [BscScan](https://bscscan.com/address/0x28def224aae1b35f2fce6dc3b939534497b33874).
 
 To deploy the contract yourself, follow these steps:
 
